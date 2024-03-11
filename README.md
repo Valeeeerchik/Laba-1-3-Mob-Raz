@@ -1,4 +1,4 @@
-# Laba1
+# Laba-1-3-Mob-Raz
 
 #### Необходимое ПО
 * Android Studio
